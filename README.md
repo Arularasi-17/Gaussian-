@@ -44,6 +44,7 @@ for i in range(n):
 
 ## Output:
 
+![Screenshot 2024-05-12 161520](https://github.com/Arularasi-17/Gaussian-/assets/147410018/9c0cfee5-7397-4c83-bc25-7970857cb55e)
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
