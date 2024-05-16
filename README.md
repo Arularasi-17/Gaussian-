@@ -13,13 +13,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 3.For that we want to make a range accorting to our program output.
 4.Then print the program with correct form then the output will display.
 ## Program:
-```
-/*
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
-*/
-
+'''Program to solve a matrix using Gaussian elimination without partial pivoting.
+Developed by: Arularasi.U
+RegisterNumber: 212223100002
+'''
 import numpy as np
 n=int(input())
 matrix=np.zeros((n,n+1))
@@ -43,8 +40,10 @@ for i in range(n):
       
 
 ## Output:
+![Screenshot 2024-05-16 091754](https://github.com/Arularasi-17/Gaussian-/assets/147410018/9fb2c1fe-6a0b-4b9b-96ec-ce4ea8a65167)
 
-![Screenshot 2024-05-12 161520](https://github.com/Arularasi-17/Gaussian-/assets/147410018/9c0cfee5-7397-4c83-bc25-7970857cb55e)
+
+
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
